@@ -1,0 +1,5 @@
+pkg/*
+src/*
+*.swp
+*.pkg.tar.xz
+mod-webui/*
